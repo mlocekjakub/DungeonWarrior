@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAssembly", "GameAssembly.csproj", "{b23cc4e8-8dce-3a03-b72a-f1833453c1fc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayModeTestAssembly", "PlayModeTestAssembly.csproj", "{47b607f4-c939-a3ac-640a-7642b65ec7ff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetsAssembly", "AssetsAssembly.csproj", "{1078938f-497a-7ef3-4b2a-40e771203f1b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAssembly", "TestAssembly.csproj", "{81f28c0b-5be3-d83a-80ce-abcc1647ad27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b23cc4e8-8dce-3a03-b72a-f1833453c1fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b23cc4e8-8dce-3a03-b72a-f1833453c1fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47b607f4-c939-a3ac-640a-7642b65ec7ff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47b607f4-c939-a3ac-640a-7642b65ec7ff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1078938f-497a-7ef3-4b2a-40e771203f1b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1078938f-497a-7ef3-4b2a-40e771203f1b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81f28c0b-5be3-d83a-80ce-abcc1647ad27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81f28c0b-5be3-d83a-80ce-abcc1647ad27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
